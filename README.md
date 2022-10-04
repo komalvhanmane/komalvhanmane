@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- I am really interested in **Competitive Programming**
+- 👨‍I am really interested in **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://komalvhanmane.github.io/Portfolio/](https://komalvhanmane.github.io/Portfolio/)
 
