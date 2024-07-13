@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komalvhanmane" alt="komalvhanmane" /></a> </p>
 
-- 🔭 I’m currently working on **Spring Boot and Angular Project**
+- 🔭 I’m currently working on **Spring Boot , Microservices ,Spring cloud**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Java Reactive Programming**
 
-- 👨‍I am really interested in **Competitive Programming**
+- 👨‍I am really interested in **Exploring new fields**
 
 - 👨‍💻 All of my projects are available at [https://komalvhanmane.github.io/Portfolio/](https://komalvhanmane.github.io/Portfolio/)
-
-- 💬 Ask me about **Data Structures ,Competitive Programming**
 
 - 📫 How to reach me **vhanmanekomal120603@gmail.com**
 
